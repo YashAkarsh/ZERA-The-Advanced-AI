@@ -2,4 +2,11 @@
 <br>
 <h2>Description</h2>
 <br>
-Zera is a python based chat bot which can perform various automation tasks such opening/closing softwares, playing music, searching the web, typing thorugh speech-to-text, etc.
+Zera is a python based chat bot which can perform various automation tasks such as:- 
+<ul>
+  <li>opening/closing softwares</li>
+  <li>playing music</li>
+  <li>searching the web</li>
+  <li>typing thorugh speech-to-text</li>
+  <li>etc</li>
+</ul>
