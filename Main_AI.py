@@ -25,9 +25,7 @@ import keyboard
 import wolframalpha
 import wikipedia
 from PyQt5.QtCore import pyqtSignal as SIGNAL
-import sounddevice as sd
-# import playsound
-# import winsound
+
 from pygame import mixer
 
 mixer.init()
